@@ -1,5 +1,6 @@
 {
 	"author": "Heidy Rodriguez",
+	"description": "A web app to teach beginning software developers about NPM capabilities",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
